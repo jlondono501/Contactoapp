@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contactoapp</string>
+    <string name="contacto">Crear Contacto</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="celular">Numero de Celular</string>
+    <string name="Ocupación" />
+    <string name="Ocupacioon">Ocupación</string>
+    <string name="guardar">Guardar</string>
+    <string name="Lista">Lista Secundarias</string>
+    <string name="ocup">Ocupación:</string>
+    <string name="errorvalidacion">Error de Validación</string>
+</resources>
